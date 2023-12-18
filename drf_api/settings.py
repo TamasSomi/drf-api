@@ -67,6 +67,7 @@ ALLOWED_HOSTS = [
     os.environ.get('ALLOWED_HOST'),
    'localhost',
    '8000-tamassomi-drf-api-5lqnniki91.us2.codeanyapp.com',
+   'drf-api-app-ts-233c953e1e3c.herokuapp.com',
 ]
 
 
